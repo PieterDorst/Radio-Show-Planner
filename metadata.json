@@ -1,0 +1,6 @@
+{
+  "name": "Radio Show Planner",
+  "description": "A desktop-style application to select songs for a radio show, ensuring songs are not reused across shows. Manage your song library and plan your shows efficiently.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
